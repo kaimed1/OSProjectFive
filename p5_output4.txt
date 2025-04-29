@@ -1,0 +1,110 @@
+[Thread Index 15] [Level 5, Position 0] [TID 139782441166400] computed leaf sum: 153
+[Thread Index 17] [Level 5, Position 2] [TID 139782424380992] computed leaf sum: 58
+[Thread Index 16] [Level 5, Position 1] [TID 139782432773696] computed leaf sum: 55
+[Thread Index 18] [Level 5, Position 3] [TID 139782415988288] computed leaf sum: 166
+[Thread Index 20] [Level 5, Position 5] [TID 139782399202880] computed leaf sum: 142
+[Thread Index 8] [Level 4, Position 1] [TID 139782499915328] received: 
+Left Child [Index 17, Level 5, Position 2, TID 139782424380992]: 58
+Right Child [Index 18, Level 5, Position 3, TID 139782415988288]: 166
+[Thread Index 8] computed sum: 224
+[Thread Index 7] [Level 4, Position 0] [TID 139782508308032] received: 
+Left Child [Index 15, Level 5, Position 0, TID 139782441166400]: 153
+Right Child [Index 16, Level 5, Position 1, TID 139782432773696]: 55
+[Thread Index 7] computed sum: 208
+[Thread Index 19] [Level 5, Position 4] [TID 139782407595584] computed leaf sum: 107
+[Thread Index 22] [Level 5, Position 7] [TID 139782382417472] computed leaf sum: 125
+[Thread Index 3] [Level 3, Position 0] [TID 139782541878848] received: 
+Left Child [Index 7, Level 4, Position 0, TID 139782508308032]: 208
+Right Child [Index 8, Level 4, Position 1, TID 139782499915328]: 224
+[Thread Index 3] computed sum: 432
+[Thread Index 9] [Level 4, Position 2] [TID 139782491522624] received: 
+Left Child [Index 19, Level 5, Position 4, TID 139782407595584]: 107
+Right Child [Index 20, Level 5, Position 5, TID 139782399202880]: 142
+[Thread Index 9] computed sum: 249
+[Thread Index 21] [Level 5, Position 6] [TID 139782390810176] computed leaf sum: 63
+[Thread Index 23] [Level 5, Position 8] [TID 139782374024768] computed leaf sum: 103
+[Thread Index 24] [Level 5, Position 9] [TID 139782365632064] computed leaf sum: 40
+[Thread Index 25] [Level 5, Position 10] [TID 139782357239360] computed leaf sum: 61
+[Thread Index 10] [Level 4, Position 3] [TID 139782483129920] received: 
+Left Child [Index 21, Level 5, Position 6, TID 139782390810176]: 63
+Right Child [Index 22, Level 5, Position 7, TID 139782382417472]: 125
+[Thread Index 10] computed sum: 188
+[Thread Index 11] [Level 4, Position 4] [TID 139782474737216] received: 
+Left Child [Index 23, Level 5, Position 8, TID 139782374024768]: 103
+[Thread Index 26] [Level 5, Position 11] [TID 139782348846656] computed leaf sum: 160
+[Thread Index 4] [Level 3, Position 1] [TID 139782533486144] received: 
+Left Child [Index 9, Level 4, Position 2, TID 139782491522624]: 249
+Right Child [Index 10, Level 4, Position 3, TID 139782483129920]: 188
+[Thread Index 4] computed sum: 437
+[Thread Index 27] [Level 5, Position 12] [TID 139782340453952] computed leaf sum: 84
+Right Child [Index 24, Level 5, Position 9, TID 139782365632064]: 40
+[Thread Index 1] [Level 2, Position 0] [TID 139782558664256] received: 
+Left Child [Index 3, Level 3, Position 0, TID 139782541878848]: 432
+Right Child [Index 4, Level 3, Position 1, TID 139782533486144]: 437
+[Thread Index 1] computed sum: 869
+[Thread Index 29] [Level 5, Position 14] [TID 139782323668544] computed leaf sum: 155
+[Thread Index 28] [Level 5, Position 13] [TID 139782332061248] computed leaf sum: 111
+[Thread Index 11] computed sum: 143
+[Thread Index 30] [Level 5, Position 15] [TID 139782315275840] computed leaf sum: 74
+[Thread Index 12] [Level 4, Position 5] [TID 139782466344512] received: 
+Left Child [Index 25, Level 5, Position 10, TID 139782357239360]: 61
+Right Child [Index 26, Level 5, Position 11, TID 139782348846656]: 160
+[Thread Index 12] computed sum: 221
+[Thread Index 5] [Level 3, Position 2] [TID 139782525093440] received: 
+Left Child [Index 11, Level 4, Position 4, TID 139782474737216]: 143
+Right Child [Index 12, Level 4, Position 5, TID 139782466344512]: 221
+[Thread Index 5] computed sum: 364
+[Thread Index 14] [Level 4, Position 7] [TID 139782449559104] received: 
+Left Child [Index 29, Level 5, Position 14, TID 139782323668544]: 155
+Right Child [Index 30, Level 5, Position 15, TID 139782315275840]: 74
+[Thread Index 13] [Level 4, Position 6] [TID 139782457951808] received: 
+Left Child [Index 27, Level 5, Position 12, TID 139782340453952]: 84
+Right Child [Index 28, Level 5, Position 13, TID 139782332061248]: 111
+[Thread Index 13] computed sum: 195
+[Thread Index 14] computed sum: 229
+[Thread Index 6] [Level 3, Position 3] [TID 139782516700736] received: 
+Left Child [Index 13, Level 4, Position 6, TID 139782457951808]: 195
+Right Child [Index 14, Level 4, Position 7, TID 139782449559104]: 229
+[Thread Index 6] computed sum: 424
+[Thread Index 2] [Level 2, Position 1] [TID 139782550271552] received: 
+Left Child [Index 5, Level 3, Position 2, TID 139782525093440]: 364
+Right Child [Index 6, Level 3, Position 3, TID 139782516700736]: 424
+[Thread Index 2] computed sum: 788
+[Thread Index 0] [Level 1, Position 0] [TID 139782567056960] received: 
+Left Child [Index 1, Level 2, Position 0, TID 139782558664256]: 869
+Right Child [Index 2, Level 2, Position 1, TID 139782550271552]: 788
+[Thread Index 0] computed final sum: 1657
+
+[Thread Index 0] now initiates tree cleanup.
+
+[Thread Index 0] [Level 1, Position 0] terminated.
+[Thread Index 1] [Level 2, Position 0] terminated.
+[Thread Index 3] [Level 3, Position 0] terminated.
+[Thread Index 4] [Level 3, Position 1] terminated.
+[Thread Index 2] [Level 2, Position 1] terminated.
+[Thread Index 15] [Level 5, Position 0] terminated.
+[Thread Index 19] [Level 5, Position 4] terminated.
+[Thread Index 9] [Level 4, Position 2] terminated.
+[Thread Index 7] [Level 4, Position 0] terminated.
+[Thread Index 20] [Level 5, Position 5] terminated.
+[Thread Index 21] [Level 5, Position 6] terminated.
+[Thread Index 16] [Level 5, Position 1] terminated.
+[Thread Index 17] [Level 5, Position 2] terminated.
+[Thread Index 6] [Level 3, Position 3] terminated.
+[Thread Index 10] [Level 4, Position 3] terminated.
+[Thread Index 5] [Level 3, Position 2] terminated.
+[Thread Index 13] [Level 4, Position 6] terminated.
+[Thread Index 8] [Level 4, Position 1] terminated.
+[Thread Index 28] [Level 5, Position 13] terminated.
+[Thread Index 23] [Level 5, Position 8] terminated.
+[Thread Index 27] [Level 5, Position 12] terminated.
+[Thread Index 11] [Level 4, Position 4] terminated.
+[Thread Index 22] [Level 5, Position 7] terminated.
+[Thread Index 14] [Level 4, Position 7] terminated.
+[Thread Index 24] [Level 5, Position 9] terminated.
+[Thread Index 18] [Level 5, Position 3] terminated.
+[Thread Index 29] [Level 5, Position 14] terminated.
+[Thread Index 30] [Level 5, Position 15] terminated.
+[Thread Index 25] [Level 5, Position 10] terminated.
+[Thread Index 12] [Level 4, Position 5] terminated.
+[Thread Index 26] [Level 5, Position 11] terminated.

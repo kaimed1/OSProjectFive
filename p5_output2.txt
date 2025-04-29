@@ -1,0 +1,26 @@
+[Thread Index 4] [Level 3, Position 1] [TID 140607419803200] computed leaf sum: 93
+[Thread Index 3] [Level 3, Position 0] [TID 140607428195904] computed leaf sum: 80
+[Thread Index 6] [Level 3, Position 3] [TID 140607403017792] computed leaf sum: 0
+[Thread Index 1] [Level 2, Position 0] [TID 140607444981312] received: 
+Left Child [Index 3, Level 3, Position 0, TID 140607428195904]: 80
+Right Child [Index 4, Level 3, Position 1, TID 140607419803200]: 93
+[Thread Index 1] computed sum: 173
+[Thread Index 5] [Level 3, Position 2] [TID 140607411410496] computed leaf sum: 83
+[Thread Index 2] [Level 2, Position 1] [TID 140607436588608] received: 
+Left Child [Index 5, Level 3, Position 2, TID 140607411410496]: 83
+Right Child [Index 6, Level 3, Position 3, TID 140607403017792]: 0
+[Thread Index 2] computed sum: 83
+[Thread Index 0] [Level 1, Position 0] [TID 140607453374016] received: 
+Left Child [Index 1, Level 2, Position 0, TID 140607444981312]: 173
+Right Child [Index 2, Level 2, Position 1, TID 140607436588608]: 83
+[Thread Index 0] computed final sum: 256
+
+[Thread Index 0] now initiates tree cleanup.
+
+[Thread Index 0] [Level 1, Position 0] terminated.
+[Thread Index 3] [Level 3, Position 0] terminated.
+[Thread Index 5] [Level 3, Position 2] terminated.
+[Thread Index 1] [Level 2, Position 0] terminated.
+[Thread Index 2] [Level 2, Position 1] terminated.
+[Thread Index 4] [Level 3, Position 1] terminated.
+[Thread Index 6] [Level 3, Position 3] terminated.

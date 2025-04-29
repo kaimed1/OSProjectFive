@@ -1,0 +1,54 @@
+[Thread Index 7] [Level 4, Position 0] [TID 140700115895872] computed leaf sum: 196
+[Thread Index 8] [Level 4, Position 1] [TID 140700107503168] computed leaf sum: 182
+[Thread Index 9] [Level 4, Position 2] [TID 140700099110464] computed leaf sum: 189
+[Thread Index 3] [Level 3, Position 0] [TID 140700149466688] received: 
+Left Child [Index 7, Level 4, Position 0, TID 140700115895872]: 196
+Right Child [Index 8, Level 4, Position 1, TID 140700107503168]: 182
+[Thread Index 3] computed sum: 378
+[Thread Index 11] [Level 4, Position 4] [TID 140700082325056] computed leaf sum: 257
+[Thread Index 10] [Level 4, Position 3] [TID 140700090717760] computed leaf sum: 240
+[Thread Index 12] [Level 4, Position 5] [TID 140700073932352] computed leaf sum: 96
+[Thread Index 4] [Level 3, Position 1] [TID 140700141073984] received: 
+[Thread Index 5] [Level 3, Position 2] [TID 140700132681280] received: 
+Left Child [Index 11, Level 4, Position 4, TID 140700082325056]: 257
+Right Child [Index 12, Level 4, Position 5, TID 140700073932352]: 96
+[Thread Index 5] computed sum: 353
+[Thread Index 13] [Level 4, Position 6] [TID 140700065539648] computed leaf sum: 19
+Left Child [Index 9, Level 4, Position 2, TID 140700099110464]: 189
+Right Child [Index 10, Level 4, Position 3, TID 140700090717760]: 240
+[Thread Index 4] computed sum: 429
+[Thread Index 14] [Level 4, Position 7] [TID 140700057146944] computed leaf sum: 0
+[Thread Index 1] [Level 2, Position 0] [TID 140700166252096] received: 
+Left Child [Index 3, Level 3, Position 0, TID 140700149466688]: 378
+Right Child [Index 4, Level 3, Position 1, TID 140700141073984]: 429
+[Thread Index 1] computed sum: 807
+[Thread Index 6] [Level 3, Position 3] [TID 140700124288576] received: 
+Left Child [Index 13, Level 4, Position 6, TID 140700065539648]: 19
+Right Child [Index 14, Level 4, Position 7, TID 140700057146944]: 0
+[Thread Index 6] computed sum: 19
+[Thread Index 2] [Level 2, Position 1] [TID 140700157859392] received: 
+Left Child [Index 5, Level 3, Position 2, TID 140700132681280]: 353
+Right Child [Index 6, Level 3, Position 3, TID 140700124288576]: 19
+[Thread Index 2] computed sum: 372
+[Thread Index 0] [Level 1, Position 0] [TID 140700174644800] received: 
+Left Child [Index 1, Level 2, Position 0, TID 140700166252096]: 807
+Right Child [Index 2, Level 2, Position 1, TID 140700157859392]: 372
+[Thread Index 0] computed final sum: 1179
+
+[Thread Index 0] now initiates tree cleanup.
+
+[Thread Index 0] [Level 1, Position 0] terminated.
+[Thread Index 1] [Level 2, Position 0] terminated.
+[Thread Index 2] [Level 2, Position 1] terminated.
+[Thread Index 3] [Level 3, Position 0] terminated.
+[Thread Index 7] [Level 4, Position 0] terminated.
+[Thread Index 4] [Level 3, Position 1] terminated.
+[Thread Index 13] [Level 4, Position 6] terminated.
+[Thread Index 8] [Level 4, Position 1] terminated.
+[Thread Index 11] [Level 4, Position 4] terminated.
+[Thread Index 9] [Level 4, Position 2] terminated.
+[Thread Index 10] [Level 4, Position 3] terminated.
+[Thread Index 5] [Level 3, Position 2] terminated.
+[Thread Index 6] [Level 3, Position 3] terminated.
+[Thread Index 12] [Level 4, Position 5] terminated.
+[Thread Index 14] [Level 4, Position 7] terminated.
